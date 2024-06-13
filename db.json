@@ -136,5 +136,125 @@
       "about": "Sagar Ratna is a popular chain offering a diverse menu of South Indian delicacies, known for its quality and consistency."
     }
   },
+  {
+    "id": 9,
+    "dish": "Avial",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/04/avial-recipe-1-500x500.jpg",
+    "price": 89,
+    "type": "Vegetarian",
+    "desc": "A mixed vegetable curry made with coconut, yogurt, and seasoned with curry leaves.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Udupi Upachar",
+      "address": "901 Jayanagar, Bangalore",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "Traditional Udupi cuisine",
+      "rating": 4.6,
+      "about": "Udupi Upachar offers authentic Udupi cuisine with a focus on traditional flavors and homely preparation."
+    }
+  },
+  {
+    "id": 10,
+    "dish": "Pesarattu",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2020/05/pesarattu-recipe-500x500.jpg",
+    "price": 99,
+    "type": "Vegetarian",
+    "desc": "Crispy green gram dosa served with ginger chutney.",
+    "rating": 4.6,
+    "restaurant": {
+      "name": "Andhra Bhavan",
+      "address": "123 RK Puram, Delhi",
+      "timing": "8:00 AM - 9:00 PM",
+      "offers": "Authentic Andhra cuisine",
+      "rating": 4.5,
+      "about": "Andhra Bhavan is renowned for its authentic Andhra meals and hospitality, serving flavors that capture the essence of Andhra Pradesh."
+    }
+  },
+  {
+    "id": 11,
+    "dish": "Chettinad Chicken",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2020/05/chettinad-chicken-500x500.jpg",
+    "price": 159,
+    "type": "Non-Vegetarian",
+    "desc": "Spicy chicken curry from the Chettinad region, made with a blend of aromatic spices and coconut.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "Chettinad Cuisine",
+      "address": "345 T Nagar, Chennai",
+      "timing": "11:30 AM - 10:30 PM",
+      "offers": "Special lunch thalis",
+      "rating": 4.7,
+      "about": "Chettinad Cuisine specializes in the bold and spicy flavors of Chettinad, offering a wide range of traditional South Indian dishes."
+    }
+  },
+  {
+    "id": 12,
+    "dish": "Bisi Bele Bath",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/01/bisi-bele-bath-recipe-1-500x500.jpg",
+    "price": 99,
+    "type": "Vegetarian",
+    "desc": "A spicy, rice-based dish made with lentils, vegetables, and tamarind, typical of Karnataka.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Bangalore Bites",
+      "address": "456 Brigade Road, Bangalore",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "Combo meals available",
+      "rating": 4.8,
+      "about": "Bangalore Bites offers a delicious range of Karnataka's traditional dishes, served in a cozy and welcoming setting."
+    }
+  },
+  {
+    "id": 13,
+    "dish": "Appam with Stew",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/12/appam-recipe-1-500x500.jpg",
+    "price": 129,
+    "type": "Non-Vegetarian",
+    "desc": "Soft, lacy rice pancakes served with a mild coconut-based stew, typically with chicken or vegetables.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "Kerala Kitchen",
+      "address": "789 Marine Drive, Kochi",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Seafood specials",
+      "rating": 4.9,
+      "about": "Kerala Kitchen brings the rich and diverse flavors of Kerala to your plate, known for its traditional recipes and warm hospitality."
+    }
+  },
+  {
+    "id": 14,
+    "dish": "Fish Moilee",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/04/fish-moilee-1-500x500.jpg",
+    "price": 149,
+    "type": "Non-Vegetarian",
+    "desc": "A mild, coconut-based fish curry from Kerala, cooked with fresh spices and herbs.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Seafood Corner",
+      "address": "890 Beach Road, Kovalam",
+      "timing": "1:00 PM - 11:00 PM",
+      "offers": "Seafood platters",
+      "rating": 4.6,
+      "about": "Seafood Corner is renowned for its fresh and flavorful seafood dishes, offering a delightful dining experience by the sea."
+    }
+  },
+  {
+    "id": 15,
+    "dish": "Prawn Ghee Roast",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/06/prawn-ghee-roast-1-500x500.jpg",
+    "price": 199,
+    "type": "Non-Vegetarian",
+    "desc": "Prawns roasted in a rich blend of ghee and spices, a specialty from Mangalore.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "Mangalore Magic",
+      "address": "123 St. Mark's Road, Mangalore",
+      "timing": "12:30 PM - 10:00 PM",
+      "offers": "Weekend seafood specials",
+      "rating": 4.9,
+      "about": "Mangalore Magic offers an authentic taste of Mangalorean cuisine, known for its spicy and flavorful seafood dishes."
+    }
+  }
+
 ]
 }
