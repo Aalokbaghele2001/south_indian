@@ -1,0 +1,140 @@
+{
+"south_indian":[
+  {
+    "id": 1,
+    "dish": "Masala Dosa",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/03/masala-dosa-recipe-1-500x500.jpg",
+    "price": 99,
+    "type": "Vegetarian",
+    "desc": "Thin, crispy crepe made from fermented rice and lentil batter, filled with spiced potato filling.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "MTR 1924",
+      "address": "14 Lalbagh Road, Bangalore",
+      "timing": "7:00 AM - 10:30 PM",
+      "offers": "Special discounts for breakfast combos",
+      "rating": 4.7,
+      "about": "MTR 1924 is a legendary restaurant known for its authentic South Indian cuisine, offering a taste of tradition since 1924."
+    }
+  },
+  {
+    "id": 2,
+    "dish": "Hyderabadi Biryani",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sneha-archanaskitchen.com/Indian_Chicken_Biryani_Recipe_3.jpg",
+    "price": 179,
+    "type": "Non-Vegetarian",
+    "desc": "Fragrant rice dish cooked with marinated meat, spices, saffron, and caramelized onions.",
+    "rating": 4.9,
+    "restaurant": {
+      "name": "Paradise Biryani",
+      "address": "246 SD Road, Secunderabad",
+      "timing": "11:00 AM - 11:00 PM",
+      "offers": "Family packs available",
+      "rating": 4.8,
+      "about": "Paradise Biryani is synonymous with authentic Hyderabadi biryani, known for its rich flavors and quality ingredients."
+    }
+  },
+  {
+    "id": 3,
+    "dish": "Uttapam",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2020/05/uttapam-500x500.jpg",
+    "price": 89,
+    "type": "Vegetarian",
+    "desc": "Thick pancake made from fermented rice and lentil batter, topped with vegetables and cooked on a griddle.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Saravana Bhavan",
+      "address": "567 RK Salai, Chennai",
+      "timing": "7:30 AM - 10:30 PM",
+      "offers": "Weekend brunch specials",
+      "rating": 4.6,
+      "about": "Saravana Bhavan is a global chain renowned for its South Indian vegetarian delicacies, served with authentic flavors and hospitality."
+    }
+  },
+  {
+    "id": 4,
+    "dish": "Pongal",
+    "image": "https://i.ndtvimg.com/i/2017-11/pongal-620_620x350_51511145626.jpg",
+    "price": 79,
+    "type": "Vegetarian",
+    "desc": "Traditional South Indian dish made with rice and lentils, flavored with black pepper, cumin, and ghee.",
+    "rating": 4.6,
+    "restaurant": {
+      "name": "Murugan Idli Shop",
+      "address": "34 GN Chetty Road, T. Nagar, Chennai",
+      "timing": "6:00 AM - 10:00 PM",
+      "offers": "Authentic South Indian breakfast specials",
+      "rating": 4.5,
+      "about": "Murugan Idli Shop is renowned for its fluffy idlis and traditional South Indian fare, served in a bustling ambiance."
+    }
+  },
+  {
+    "id": 5,
+    "dish": "Vada Sambar",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2014/12/vada-recipe-480x270.jpg",
+    "price": 69,
+    "type": "Vegetarian",
+    "desc": "Crispy lentil donuts served with tangy tamarind and spicy sambar.",
+    "rating": 4.5,
+    "restaurant": {
+      "name": "Adyar Ananda Bhavan",
+      "address": "123 GN Road, Adyar, Chennai",
+      "timing": "6:30 AM - 11:00 PM",
+      "offers": "South Indian breakfast combos",
+      "rating": 4.7,
+      "about": "Adyar Ananda Bhavan is a well-known chain offering a wide variety of South Indian vegetarian dishes with a focus on taste and quality."
+    }
+  },
+  {
+    "id": 6,
+    "dish": "Coconut Chutney",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/08/coconut-chutney-2-500x500.jpg",
+    "price": 49,
+    "type": "Vegetarian",
+    "desc": "A classic South Indian condiment made from fresh coconut, green chilies, and spices.",
+    "rating": 4.5,
+    "restaurant": {
+      "name": "Coastal Express",
+      "address": "789 Marine Drive, Kochi",
+      "timing": "8:00 AM - 9:00 PM",
+      "offers": "Coastal delicacies",
+      "rating": 4.6,
+      "about": "Coastal Express specializes in authentic South Indian coastal cuisine, offering a delightful culinary journey along the coastline."
+    }
+  },
+  {
+    "id": 7,
+    "dish": "Mysore Masala Dosa",
+    "image": "https://www.cookclickndevour.com/wp-content/uploads/2021/01/mysore-masala-dosa-recipe-500x500.jpg",
+    "price": 109,
+    "type": "Vegetarian",
+    "desc": "Crispy dosa spread with spicy Mysore chutney and filled with potato masala.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Janatha Hotel",
+      "address": "456 MG Road, Mysore",
+      "timing": "7:00 AM - 11:00 PM",
+      "offers": "Traditional Mysore dishes",
+      "rating": 4.6,
+      "about": "Janatha Hotel is a local favorite known for its authentic Mysore dishes and warm hospitality, serving generations of satisfied customers."
+    }
+  },
+  {
+    "id": 8,
+    "dish": "Rava Idli",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/09/rava-idli-recipe-1-500x500.jpg",
+    "price": 79,
+    "type": "Vegetarian",
+    "desc": "Steamed semolina cakes served with coconut chutney and sambar.",
+    "rating": 4.6,
+    "restaurant": {
+      "name": "Sagar Ratna",
+      "address": "678 MG Road, Bangalore",
+      "timing": "7:30 AM - 10:30 PM",
+      "offers": "South Indian breakfast specials",
+      "rating": 4.5,
+      "about": "Sagar Ratna is a popular chain offering a diverse menu of South Indian delicacies, known for its quality and consistency."
+    }
+  },
+]
+}
