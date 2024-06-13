@@ -2,7 +2,7 @@
 "south_indian":[{
     "id": 1,
     "dish": "Masala Dosa",
-    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/03/masala-dosa-recipe-1-500x500.jpg",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/masala-dosa-recipe.jpg",
     "price": 99,
     "type": "Vegetarian",
     "desc": "Thin, crispy crepe made from fermented rice and lentil batter, filled with spiced potato filling.",
@@ -18,7 +18,7 @@
   {
     "id": 2,
     "dish": "Hyderabadi Biryani",
-    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sneha-archanaskitchen.com/Indian_Chicken_Biryani_Recipe_3.jpg",
+    "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani-600x600.jpg",
     "price": 179,
     "type": "Non-Vegetarian",
     "desc": "Fragrant rice dish cooked with marinated meat, spices, saffron, and caramelized onions.",
@@ -34,7 +34,7 @@
   {
     "id": 3,
     "dish": "Uttapam",
-    "image": "https://www.cookwithmanali.com/wp-content/uploads/2020/05/uttapam-500x500.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQiaF3ZawJ_iXNTYzzMOXcmAsDHt3dXZwjBw&s",
     "price": 89,
     "type": "Vegetarian",
     "desc": "Thick pancake made from fermented rice and lentil batter, topped with vegetables and cooked on a griddle.",
@@ -50,7 +50,7 @@
   {
     "id": 4,
     "dish": "Pongal",
-    "image": "https://i.ndtvimg.com/i/2017-11/pongal-620_620x350_51511145626.jpg",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/01/pongal-ven-pongal-500x500.jpg",
     "price": 79,
     "type": "Vegetarian",
     "desc": "Traditional South Indian dish made with rice and lentils, flavored with black pepper, cumin, and ghee.",
@@ -66,7 +66,7 @@
   {
     "id": 5,
     "dish": "Vada Sambar",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2014/12/vada-recipe-480x270.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwB2EYW8LctftE8SZB-2pTpAiU98V_5xm4w&s",
     "price": 69,
     "type": "Vegetarian",
     "desc": "Crispy lentil donuts served with tangy tamarind and spicy sambar.",
@@ -82,7 +82,7 @@
   {
     "id": 6,
     "dish": "Coconut Chutney",
-    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/08/coconut-chutney-2-500x500.jpg",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/05/coconut-chutney-recipe.jpg",
     "price": 49,
     "type": "Vegetarian",
     "desc": "A classic South Indian condiment made from fresh coconut, green chilies, and spices.",
@@ -98,7 +98,7 @@
   {
     "id": 7,
     "dish": "Mysore Masala Dosa",
-    "image": "https://www.cookclickndevour.com/wp-content/uploads/2021/01/mysore-masala-dosa-recipe-500x500.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHIo8-afLdnkaQJlv9KayhkaekCZdbheyvgQ&s",
     "price": 109,
     "type": "Vegetarian",
     "desc": "Crispy dosa spread with spicy Mysore chutney and filled with potato masala.",
@@ -114,7 +114,7 @@
   {
     "id": 8,
     "dish": "Rava Idli",
-    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/09/rava-idli-recipe-1-500x500.jpg",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/07/rava-idli.jpg",
     "price": 79,
     "type": "Vegetarian",
     "desc": "Steamed semolina cakes served with coconut chutney and sambar.",
@@ -130,7 +130,7 @@
   {
     "id": 9,
     "dish": "Avial",
-    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/04/avial-recipe-1-500x500.jpg",
+    "image": "https://foodtrails25.com/wp-content/uploads/2023/08/Avial-Aiyal.jpg",
     "price": 89,
     "type": "Vegetarian",
     "desc": "A mixed vegetable curry made with coconut, yogurt, and seasoned with curry leaves.",
@@ -146,7 +146,7 @@
   {
     "id": 10,
     "dish": "Pesarattu",
-    "image": "https://www.cookwithmanali.com/wp-content/uploads/2020/05/pesarattu-recipe-500x500.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThI-NXm5T2SC-ar_QjkGQvlZFCstWJZFnRbg&s",
     "price": 99,
     "type": "Vegetarian",
     "desc": "Crispy green gram dosa served with ginger chutney.",
@@ -162,7 +162,7 @@
   {
     "id": 11,
     "dish": "Chettinad Chicken",
-    "image": "https://www.cookwithmanali.com/wp-content/uploads/2020/05/chettinad-chicken-500x500.jpg",
+    "image": "https://www.whiskaffair.com/wp-content/uploads/2020/09/Chicken-Chettinad-Curry-2-3.jpg",
     "price": 159,
     "type": "Non-Vegetarian",
     "desc": "Spicy chicken curry from the Chettinad region, made with a blend of aromatic spices and coconut.",
@@ -178,7 +178,7 @@
   {
     "id": 12,
     "dish": "Bisi Bele Bath",
-    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/01/bisi-bele-bath-recipe-1-500x500.jpg",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/bisi-bele-bath-recipe.jpg",
     "price": 99,
     "type": "Vegetarian",
     "desc": "A spicy, rice-based dish made with lentils, vegetables, and tamarind, typical of Karnataka.",
@@ -194,7 +194,7 @@
   {
     "id": 13,
     "dish": "Appam with Stew",
-    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/12/appam-recipe-1-500x500.jpg",
+    "image": "https://c8.alamy.com/comp/AC7HND/appam-with-chicken-stew-cuisine-of-kerala-AC7HND.jpg",
     "price": 129,
     "type": "Non-Vegetarian",
     "desc": "Soft, lacy rice pancakes served with a mild coconut-based stew, typically with chicken or vegetables.",
@@ -210,7 +210,7 @@
   {
     "id": 14,
     "dish": "Fish Moilee",
-    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/04/fish-moilee-1-500x500.jpg",
+    "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Fish-Molee.jpg",
     "price": 149,
     "type": "Non-Vegetarian",
     "desc": "A mild, coconut-based fish curry from Kerala, cooked with fresh spices and herbs.",
@@ -226,7 +226,7 @@
   {
     "id": 15,
     "dish": "Prawn Ghee Roast",
-    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/06/prawn-ghee-roast-1-500x500.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5L_Dse1iN-xIYuRhTd5YHnGYFwN7MaEq6w&s",
     "price": 199,
     "type": "Non-Vegetarian",
     "desc": "Prawns roasted in a rich blend of ghee and spices, a specialty from Mangalore.",
