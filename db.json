@@ -7,6 +7,7 @@
     "type": "Vegetarian",
     "desc": "Thin, crispy crepe made from fermented rice and lentil batter, filled with spiced potato filling.",
     "rating": 4.8,
+    "category": "South Indian",
     "restaurant": {
       "name": "MTR 1924",
       "address": "14 Lalbagh Road, Bangalore",
@@ -23,6 +24,7 @@
     "type": "Non-Vegetarian",
     "desc": "Fragrant rice dish cooked with marinated meat, spices, saffron, and caramelized onions.",
     "rating": 4.9,
+      "category": "South Indian",
     "restaurant": {
       "name": "Paradise Biryani",
       "address": "246 SD Road, Secunderabad",
@@ -39,6 +41,7 @@
     "type": "Vegetarian",
     "desc": "Thick pancake made from fermented rice and lentil batter, topped with vegetables and cooked on a griddle.",
     "rating": 4.7,
+      "category": "South Indian",
     "restaurant": {
       "name": "Saravana Bhavan",
       "address": "567 RK Salai, Chennai",
@@ -55,6 +58,7 @@
     "type": "Vegetarian",
     "desc": "Traditional South Indian dish made with rice and lentils, flavored with black pepper, cumin, and ghee.",
     "rating": 4.6,
+      "category": "South Indian",
     "restaurant": {
       "name": "Murugan Idli Shop",
       "address": "34 GN Chetty Road, T. Nagar, Chennai",
@@ -71,6 +75,7 @@
     "type": "Vegetarian",
     "desc": "Crispy lentil donuts served with tangy tamarind and spicy sambar.",
     "rating": 4.5,
+      "category": "South Indian",
     "restaurant": {
       "name": "Adyar Ananda Bhavan",
       "address": "123 GN Road, Adyar, Chennai",
@@ -87,6 +92,7 @@
     "type": "Vegetarian",
     "desc": "A classic South Indian condiment made from fresh coconut, green chilies, and spices.",
     "rating": 4.5,
+      "category": "South Indian",
     "restaurant": {
       "name": "Coastal Express",
       "address": "789 Marine Drive, Kochi",
@@ -103,6 +109,7 @@
     "type": "Vegetarian",
     "desc": "Crispy dosa spread with spicy Mysore chutney and filled with potato masala.",
     "rating": 4.7,
+      "category": "South Indian",
     "restaurant": {
       "name": "Janatha Hotel",
       "address": "456 MG Road, Mysore",
@@ -119,6 +126,7 @@
     "type": "Vegetarian",
     "desc": "Steamed semolina cakes served with coconut chutney and sambar.",
     "rating": 4.6,
+      "category": "South Indian",
     "restaurant": {
       "name": "Sagar Ratna",
       "address": "678 MG Road, Bangalore",
@@ -135,6 +143,7 @@
     "type": "Vegetarian",
     "desc": "A mixed vegetable curry made with coconut, yogurt, and seasoned with curry leaves.",
     "rating": 4.7,
+      "category": "South Indian",
     "restaurant": {
       "name": "Udupi Upachar",
       "address": "901 Jayanagar, Bangalore",
@@ -151,6 +160,7 @@
     "type": "Vegetarian",
     "desc": "Crispy green gram dosa served with ginger chutney.",
     "rating": 4.6,
+      "category": "South Indian",
     "restaurant": {
       "name": "Andhra Bhavan",
       "address": "123 RK Puram, Delhi",
@@ -167,6 +177,7 @@
     "type": "Non-Vegetarian",
     "desc": "Spicy chicken curry from the Chettinad region, made with a blend of aromatic spices and coconut.",
     "rating": 4.8,
+      "category": "South Indian",
     "restaurant": {
       "name": "Chettinad Cuisine",
       "address": "345 T Nagar, Chennai",
@@ -183,6 +194,7 @@
     "type": "Vegetarian",
     "desc": "A spicy, rice-based dish made with lentils, vegetables, and tamarind, typical of Karnataka.",
     "rating": 4.7,
+      "category": "South Indian",
     "restaurant": {
       "name": "Bangalore Bites",
       "address": "456 Brigade Road, Bangalore",
@@ -199,6 +211,7 @@
     "type": "Non-Vegetarian",
     "desc": "Soft, lacy rice pancakes served with a mild coconut-based stew, typically with chicken or vegetables.",
     "rating": 4.8,
+      "category": "South Indian",
     "restaurant": {
       "name": "Kerala Kitchen",
       "address": "789 Marine Drive, Kochi",
@@ -215,6 +228,7 @@
     "type": "Non-Vegetarian",
     "desc": "A mild, coconut-based fish curry from Kerala, cooked with fresh spices and herbs.",
     "rating": 4.7,
+      "category": "South Indian",
     "restaurant": {
       "name": "Seafood Corner",
       "address": "890 Beach Road, Kovalam",
@@ -222,21 +236,5 @@
       "offers": "Seafood platters",
       "rating": 4.6,
       "about": "Seafood Corner is renowned for its fresh and flavorful seafood dishes, offering a delightful dining experience by the sea."
-    }},
-  {
-    "id": 15,
-    "dish": "Prawn Ghee Roast",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5L_Dse1iN-xIYuRhTd5YHnGYFwN7MaEq6w&s",
-    "price": 199,
-    "type": "Non-Vegetarian",
-    "desc": "Prawns roasted in a rich blend of ghee and spices, a specialty from Mangalore.",
-    "rating": 4.8,
-    "restaurant": {
-      "name": "Mangalore Magic",
-      "address": "123 St. Mark's Road, Mangalore",
-      "timing": "12:30 PM - 10:00 PM",
-      "offers": "Weekend seafood specials",
-      "rating": 4.9,
-      "about": "Mangalore Magic offers an authentic taste of Mangalorean cuisine, known for its spicy and flavorful seafood dishes."
     }}
 ]}
