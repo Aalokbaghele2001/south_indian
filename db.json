@@ -59,13 +59,13 @@
     "desc": "Traditional South Indian dish made with rice and lentils, flavored with black pepper, cumin, and ghee.",
     "rating": 4.6,
       "category": "South Indian",
-    "restaurant": {
-      "name": "Murugan Idli Shop",
-      "address": "34 GN Chetty Road, T. Nagar, Chennai",
-      "timing": "6:00 AM - 10:00 PM",
-      "offers": "Authentic South Indian breakfast specials",
-      "rating": 4.5,
-      "about": "Murugan Idli Shop is renowned for its fluffy idlis and traditional South Indian fare, served in a bustling ambiance."
+     "restaurant": {
+      "name": "Kashmiri Khazana",
+      "address": "567 Dal Lake View, Srinagar",
+      "timing": "11:30 AM - 10:00 PM",
+      "offers": "10% off for dine-in",
+      "rating": 4.7,
+      "about": "Kashmiri Khazana offers the flavors of Kashmiri cuisine, known for its rich use of spices and unique preparation methods."
     }},
   {
     "id": 19,
@@ -235,5 +235,5 @@
       "offers": "Happy Hour: 3:00 PM - 6:00 PM",
       "rating": 4.6,
       "about": "Patiala Junction brings the robust flavors of Punjab to life with its authentic Punjabi dishes and vibrant ambiance."
-    }},
+    }}
 ]}
