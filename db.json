@@ -8,13 +8,13 @@
     "desc": "Thin, crispy crepe made from fermented rice and lentil batter, filled with spiced potato filling.",
     "rating": 4.8,
     "category": "South Indian",
-    "restaurant": {
-      "name": "MTR 1924",
-      "address": "14 Lalbagh Road, Bangalore",
-      "timing": "7:00 AM - 10:30 PM",
-      "offers": "Special discounts for breakfast combos",
+      "restaurant": {
+      "name": "Spice Route",
+      "address": "123 Main Street, New Delhi",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "20% off on Tuesdays",
       "rating": 4.7,
-      "about": ""
+      "about": "Spice Route offers a delightful journey through North Indian cuisine, blending traditional flavors with a modern twist."
     }},
   {
     "id": 16,
@@ -26,12 +26,12 @@
     "rating": 4.9,
       "category": "South Indian",
     "restaurant": {
-      "name": "Paradise Biryani",
-      "address": "246 SD Road, Secunderabad",
-      "timing": "11:00 AM - 11:00 PM",
-      "offers": "Family packs available",
-      "rating": 4.8,
-      "about": "Paradise Biryani is synonymous with authentic Hyderabadi biryani, known for its rich flavors."
+      "name": "Tandoori Nights",
+      "address": "456 Park Avenue, Mumbai",
+      "timing": "11:30 AM - 11:00 PM",
+      "offers": "Free dessert on orders over Rs. 500",
+      "rating": 4.6,
+      "about": "Tandoori Nights is renowned for its authentic tandoori dishes, offering a vibrant dining experience in the heart of Mumbai."
     }},
   {
     "id": 17,
@@ -43,12 +43,12 @@
     "rating": 4.7,
       "category": "South Indian",
     "restaurant": {
-      "name": "Saravana Bhavan",
-      "address": "567 RK Salai, Chennai",
-      "timing": "7:30 AM - 10:30 PM",
-      "offers": "Weekend brunch specials",
-      "rating": 4.6,
-      "about": "Saravana Bhavan is a global chain renowned for its South Indian vegetarian delicacies, served with authentic flavors and hospitality."
+      "name": "Punjabi Tadka",
+      "address": "789 Commercial Road, Chandigarh",
+      "timing": "10:00 AM - 9:30 PM",
+      "offers": "10% off for first-time visitors",
+      "rating": 4.8,
+      "about": "Punjabi Tadka offers an authentic taste of Punjab with its flavorful chole bhature and other Punjabi delicacies."
     }},
   {
     "id": 18,
@@ -77,12 +77,12 @@
     "rating": 4.5,
       "category": "South Indian",
     "restaurant": {
-      "name": "Adyar Ananda Bhavan",
-      "address": "123 GN Road, Adyar, Chennai",
-      "timing": "6:30 AM - 11:00 PM",
-      "offers": "South Indian breakfast combos",
-      "rating": 4.7,
-      "about": "Adyar Ananda Bhavan is a well-known chain offering a wide variety of South Indian vegetarian dishes with a focus on taste and quality."
+      "name": "Punjabi Tadka",
+      "address": "789 Commercial Road, Chandigarh",
+      "timing": "10:00 AM - 9:30 PM",
+      "offers": "10% off for first-time visitors",
+      "rating": 4.8,
+      "about": "Punjabi Tadka offers an authentic taste of Punjab with its flavorful chole bhature and other Punjabi delicacies."
     }},
   {
     "id": 20,
@@ -92,14 +92,13 @@
     "type": "Vegetarian",
     "desc": "A classic South Indian condiment made from fresh coconut, green chilies, and spices.",
     "rating": 4.5,
-      "category": "South Indian",
     "restaurant": {
-      "name": "Coastal Express",
-      "address": "789 Marine Drive, Kochi",
-      "timing": "8:00 AM - 9:00 PM",
-      "offers": "Coastal delicacies",
-      "rating": 4.6,
-      "about": "Coastal Express specializes in authentic South Indian coastal cuisine, offering a delightful culinary journey along the coastline."
+      "name": "Royal Rasoi",
+      "address": "567 Brigade Road, Bangalore",
+      "timing": "12:30 PM - 11:00 PM",
+      "offers": "Lunch buffet at Rs. 399",
+      "rating": 4.9,
+      "about": "Royal Rasoi offers a royal dining experience with a wide array of vegetarian and non-vegetarian dishes from across India."
     }},
   {
     "id": 21,
@@ -111,12 +110,12 @@
     "rating": 4.7,
       "category": "South Indian",
     "restaurant": {
-      "name": "Janatha Hotel",
-      "address": "456 MG Road, Mysore",
-      "timing": "7:00 AM - 11:00 PM",
-      "offers": "Traditional Mysore dishes",
-      "rating": 4.6,
-      "about": "Janatha Hotel is a local favorite known for its authentic Mysore dishes and warm hospitality, serving generations of satisfied customers."
+      "name": "Delhi Darbar",
+      "address": "890 Connaught Place, Delhi",
+      "timing": "9:00 AM - 10:00 PM",
+      "offers": "Weekend brunch specials",
+      "rating": 4.7,
+      "about": "Delhi Darbar is a landmark in Delhi known for its traditional Indian breakfast and hearty North Indian meals throughout the day."
     }},
   {
     "id": 22,
@@ -128,12 +127,12 @@
     "rating": 4.6,
       "category": "South Indian",
     "restaurant": {
-      "name": "Sagar Ratna",
-      "address": "678 MG Road, Bangalore",
-      "timing": "7:30 AM - 10:30 PM",
-      "offers": "South Indian breakfast specials",
-      "rating": 4.5,
-      "about": "Sagar Ratna is a popular chain offering a diverse menu of South Indian delicacies, known for its quality and consistency."
+      "name": "Lucknowi Bawarchi",
+      "address": "345 Hazratganj, Lucknow",
+      "timing": "11:00 AM - 10:30 PM",
+      "offers": "15% off on weekdays",
+      "rating": 4.6,
+      "about": "Lucknowi Bawarchi serves authentic Lucknowi cuisine, showcasing the rich culinary heritage of Uttar Pradesh."
     }},
   {
     "id": 23,
@@ -144,13 +143,13 @@
     "desc": "A mixed vegetable curry made with coconut, yogurt, and seasoned with curry leaves.",
     "rating": 4.7,
       "category": "South Indian",
-    "restaurant": {
-      "name": "Udupi Upachar",
-      "address": "901 Jayanagar, Bangalore",
-      "timing": "11:00 AM - 10:00 PM",
-      "offers": "Traditional Udupi cuisine",
-      "rating": 4.6,
-      "about": "Udupi Upachar offers authentic Udupi cuisine with a focus on traditional flavors and homely preparation."
+      "restaurant": {
+      "name": "Jaipur Spice",
+      "address": "678 Pink City Road, Jaipur",
+      "timing": "11:30 AM - 11:00 PM",
+      "offers": "Chef's special thali",
+      "rating": 4.5,
+      "about": "Jaipur Spice brings the flavors of Rajasthan to life with its aromatic Rajasthani dishes and vibrant ambiance."
     }},
   {
     "id": 24,
@@ -161,13 +160,13 @@
     "desc": "Crispy green gram dosa served with ginger chutney.",
     "rating": 4.6,
       "category": "South Indian",
-    "restaurant": {
-      "name": "Andhra Bhavan",
-      "address": "123 RK Puram, Delhi",
-      "timing": "8:00 AM - 9:00 PM",
-      "offers": "Authentic Andhra cuisine",
-      "rating": 4.5,
-      "about": "Andhra Bhavan is renowned for its authentic Andhra meals and hospitality, serving flavors that capture the essence of Andhra Pradesh."
+   "restaurant": {
+      "name": "Agra Palace",
+      "address": "901 Taj Ganj, Agra",
+      "timing": "10:00 AM - 9:30 PM",
+      "offers": "Buy 2 main courses, get 1 free appetizer",
+      "rating": 4.7,
+      "about": "Agra Palace offers a taste of Agra's royal Mughlai cuisine, known for its rich flavors and exquisite presentation."
     }},
   {
     "id": 25,
@@ -178,13 +177,13 @@
     "desc": "Spicy chicken curry from the Chettinad region, made with a blend of aromatic spices and coconut.",
     "rating": 4.8,
       "category": "South Indian",
-    "restaurant": {
-      "name": "Chettinad Cuisine",
-      "address": "345 T Nagar, Chennai",
-      "timing": "11:30 AM - 10:30 PM",
-      "offers": "Special lunch thalis",
-      "rating": 4.7,
-      "about": "Chettinad Cuisine specializes in the bold and spicy flavors of Chettinad, offering a wide range of traditional South Indian dishes."
+   "restaurant": {
+      "name": "Mughlai Dastarkhwan",
+      "address": "123 Gomti Nagar, Lucknow",
+      "timing": "12:00 PM - 10:30 PM",
+      "offers": "10% off on online orders",
+      "rating": 4.8,
+      "about": "Mughlai Dastarkhwan offers a regal dining experience with its exquisite Mughlai cuisine, known for its aromatic spices and richness."
     }},
   {
     "id": 26,
@@ -196,12 +195,12 @@
     "rating": 4.7,
       "category": "South Indian",
     "restaurant": {
-      "name": "Bangalore Bites",
-      "address": "456 Brigade Road, Bangalore",
-      "timing": "11:00 AM - 10:00 PM",
-      "offers": "Combo meals available",
-      "rating": 4.8,
-      "about": "Bangalore Bites offers a delicious range of Karnataka's traditional dishes, served in a cozy and welcoming setting."
+      "name": "Rajasthani Rangoli",
+      "address": "456 Udaipur Circle, Udaipur",
+      "timing": "11:30 AM - 10:30 PM",
+      "offers": "Weekend family discounts",
+      "rating": 4.6,
+      "about": "Rajasthani Rangoli celebrates the flavors of Rajasthan with its traditional tandoori dishes and warm hospitality."
     }},
   {
     "id": 27,
@@ -212,13 +211,13 @@
     "desc": "Soft, lacy rice pancakes served with a mild coconut-based stew, typically with chicken or vegetables.",
     "rating": 4.8,
       "category": "South Indian",
-    "restaurant": {
-      "name": "Kerala Kitchen",
-      "address": "789 Marine Drive, Kochi",
-      "timing": "12:00 PM - 10:00 PM",
-      "offers": "Seafood specials",
-      "rating": 4.9,
-      "about": "Kerala Kitchen brings the rich and diverse flavors of Kerala to your plate, known for its traditional recipes and warm hospitality."
+       "restaurant": {
+      "name": "Varanasi Vaishnavi",
+      "address": "789 Kashi Vishwanath Gali, Varanasi",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "15% off on weekends",
+      "rating": 4.8,
+      "about": "Varanasi Vaishnavi specializes in authentic Varanasi cuisine, blending traditional flavors with a touch of modern flair."
     }},
   {
     "id": 28,
@@ -229,12 +228,12 @@
     "desc": "A mild, coconut-based fish curry from Kerala, cooked with fresh spices and herbs.",
     "rating": 4.7,
       "category": "South Indian",
-    "restaurant": {
-      "name": "Seafood Corner",
-      "address": "890 Beach Road, Kovalam",
-      "timing": "1:00 PM - 11:00 PM",
-      "offers": "Seafood platters",
+     "restaurant": {
+      "name": "Patiala Junction",
+      "address": "234 GT Road, Patiala",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "Happy Hour: 3:00 PM - 6:00 PM",
       "rating": 4.6,
-      "about": "Seafood Corner is renowned for its fresh and flavorful seafood dishes, offering a delightful dining experience by the sea."
-    }}
+      "about": "Patiala Junction brings the robust flavors of Punjab to life with its authentic Punjabi dishes and vibrant ambiance."
+    }},
 ]}
